@@ -168,13 +168,14 @@
 				TargetAttributes = {
 					3116C0D71DA4DD360015AC69 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 319C19311B4843EB005EFEE5;
 					};
 					319C19311B4843EB005EFEE5 = {
 						CreatedOnToolsVersion = 6.4;
 						DevelopmentTeam = 289M6XEDV4;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};

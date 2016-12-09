@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         stepper.addTarget(self, action: #selector(ViewController.stepperValueChanged), for: .valueChanged)
     }
 
-    func stepperValueChanged(stepper: GMStepper) {
+    func stepperValueChanged(_ stepper: GMStepper) {
         print(stepper.value, terminator: "")
     }
 }
